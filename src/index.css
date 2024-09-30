@@ -1,0 +1,24 @@
+.header {
+  padding: 20px;
+}
+
+.header h2 {
+  text-align: center;
+}
+
+.form-det {
+  width: 30% !important;
+  margin-right: 1% !important;
+  padding: 10px !important;
+  border: solid 1px rgb(196, 195, 195) !important;
+  box-shadow: none !important;
+  float: left
+}
+
+.btn{
+  padding:10px 20px !important;
+}
+
+.strike{
+  text-decoration: line-through;
+}
